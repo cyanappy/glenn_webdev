@@ -1,0 +1,45 @@
+body { 
+	position: fixed;
+	margin: 0px;
+	padding: 0px;
+	background-image: url("pic/bg.gif");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+.container img {
+	position: absolute;
+	top: 60;
+	left: 185;
+	width: 1024;
+	height: 512;
+}
+
+#containerbg {
+	opacity: 0.3;
+}
+
+#logos{
+	position: absolute;
+	width: 128;
+	height: 128;
+	top: 100;
+	left: 1220;
+}
+
+#aura {
+	top: 150;
+	left: 189;
+	width: 255;
+	height: 120;
+}
+
+#pfp {
+	position: relative;
+	left: 250;
+	top: 100;
+	width: 128;
+	height: 128;
+	
+}
